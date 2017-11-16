@@ -11,27 +11,33 @@ body {
 	color: #3a3a3a;
 	margin: 0;
 }
+
 ul {
   margin: 0;
   padding: 0;
   list-style: none;
 }
+
 p {
 	font-size: .95em;
 	margin-bottom: 1.8em;
 }
+
 h2,
 h3,
 a {
 	color: #093a58;
 }
+
 h2,
 h3 {
 	margin-top: 0;
 }
+
 a {
 	text-decoration: none;
 }
+
 img {
 	max-width: 100%;
 }
@@ -46,20 +52,24 @@ img {
 	font-size: 1.35em;
 	margin: 0;
 }
+
 .main-nav {
 	margin-top: 5px;
 }
+
 .name a,
 .main-nav a {
 	text-align: center;
 	display: block;
 	padding: 10px 15px;
 }
+
 .main-nav a {
 	font-size: .95em;
 	color: #3acec2;
 	text-transform: uppercase;
 }
+
 .main-nav a:hover {
 	color: #093a58;
 }
@@ -70,20 +80,24 @@ img {
 	padding-top: .5em;
 	padding-bottom: .5em;
 }
+
 .banner,
 .main-footer {
 	text-align: center;
 }
+
 .banner {
 	color: #fff;
 	background: #3acec2;
 	padding: 3.2em 0;
 	margin-bottom: 48px;
 }
+
 .col {
 	padding-right: 1em;
 	padding-left: 1em;
 }
+
 .main-footer {
 	background: #d9e4ea;
 	padding: 2em 0;
@@ -100,6 +114,14 @@ img {
 }
 .feat-img {
 	border-radius: 5px;
+}
+
+.button {
+	color: #fff;
+	text-align: center;
+	padding: .625em 1.25em;
+	background: #3acec2;
+	border-radius: .35em;
 }
 
 /* ================================= 
